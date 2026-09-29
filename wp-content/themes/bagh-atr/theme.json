@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "layout": {
+      "contentSize": "1240px",
+      "wideSize": "1440px"
+    },
+    "color": {
+      "palette": [
+        {
+          "slug": "blush",
+          "name": "Blush",
+          "color": "#F7ECE9"
+        },
+        {
+          "slug": "plum",
+          "name": "Plum",
+          "color": "#2A1420"
+        },
+        {
+          "slug": "pomegranate",
+          "name": "Pomegranate",
+          "color": "#8E1F45"
+        },
+        {
+          "slug": "turquoise",
+          "name": "Turquoise",
+          "color": "#17706F"
+        },
+        {
+          "slug": "saffron",
+          "name": "Saffron",
+          "color": "#E2A62A"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#F7ECE9",
+      "text": "#2A1420"
+    },
+    "spacing": {
+      "blockGap": "0"
+    }
+  }
+}
